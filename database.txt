@@ -1,0 +1,8 @@
+This is the database for the server to get he free database and free domain
+ <database>unlock
+  delete
+   sudo -s s28667145/server/domain sudo - s cat delete cat explorer
+    sudo - i install s28667145.sdatabase.free.trail
+   decode
+    passkey:482hdi
+    Username:206971
